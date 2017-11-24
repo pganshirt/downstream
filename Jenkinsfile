@@ -24,3 +24,4 @@ node {
     }
   }
 }
+currentBuild.setDescription("923ab4b-SNAPSHOT" + "\n" + "923ab4b-20171117.131148-1-bin" + "\n" + "Branch: master" + "\n" + "Build container: 0.5.4")
